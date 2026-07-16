@@ -1,7 +1,5 @@
 # ⚖️ RandomOrder-Balance
 
-**A Python project that simulates how scheduling algorithms behave when jobs show up in a random order — inspired by the kind of load-balancing problems real cluster managers like Google's Borg deal with every day.**
-
 <p align="center">
   <img alt="Python" src="https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&logoColor=white">
   <img alt="License" src="https://img.shields.io/badge/License-MIT-lightgrey">
